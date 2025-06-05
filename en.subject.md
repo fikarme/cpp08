@@ -1,4 +1,12 @@
-## Templated containers, iterators, algorithms
+# General rules
+- use UpperCamelCase
+- use Orthodox Canonical Form
+- use C++98 standard.
+- use these flags: -Wall -Wextra -Werror
+- don't use braces for single-line if statements
+- no function implementation in header files
+
+# Templated containers, iterators, algorithms
 
 You will notice that, in this module, the exercises can be solved WITHOUT the standard
 Containers and WITHOUT the standard Algorithms.
