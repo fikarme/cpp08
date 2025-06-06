@@ -3,3 +3,4 @@ lain
 *.out
 .DS_Store
 .vscode
+Obj/
